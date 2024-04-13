@@ -8,5 +8,6 @@ Albert Einstein once said, “A person who never made a
 mistake never tried anything new.”
 */
 
-console.log("Albert Einstein once said, “A person who never made a mistake never tried anything new.”")
-
+const personName = "Albert Einstein";
+const quote = "A person who never made a mistake never tried anything new";
+console.log(`${personName} once said, "${quote}"`);
